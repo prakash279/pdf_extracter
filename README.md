@@ -39,8 +39,8 @@ If you need to train a custom NER model, follow the official spaCy documentation
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/prakash279/pdf_extracter.git
+cd odf_extracter
 ```
 
 ### 2. Add Your Trained NER Model
